@@ -1,0 +1,1 @@
+# SIEM-SOC-Home-Lab-End-to-End-Threat-Detection-with-Wazuh-ELK-Stack
